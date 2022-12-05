@@ -1,0 +1,17 @@
+{
+    "name": "ghbaker/our-framework",
+    "description": "learn how framework works",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "ghehioueche baker",
+            "email": "ghbakar92@gmail.com"
+        }
+    ],
+    "require": {}
+}
